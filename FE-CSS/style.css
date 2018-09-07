@@ -1,54 +1,3 @@
-/*.menu{
-    background-color:#D5B0AC;
-    font-weight: bold;
-    text-align: center;
-
-}
-.menu span {
-    display: inline-block;
-    width : 100px;
-    height: 30px;
-    line-height: 30px;
-    position: relative;
-}
-
-.menu span{
-    display: inline-block;
-    width: 100px;
-    height: 30px;
-    line-height: 30px;
-
-}
-span:hover{
-    background-color: #9CD08F;
-    color: white;
-
-}
-.submenu{
-    display: none;
-    position: absolute;
-    background-color: #D5B0AC;
-    color: black;
-    width: 100px;
-}
-.menu span:hover > .submenu{
-    display: block;
-    position: absolute;
-}
-.submenu .submenu{
-    display: none;
-    position: absolute;
-    left: 100px;
-    top: 0;
-}
-.submenu span {
-    position: relative;
-}
-.submenu span:hover > .submenu{
-    display: block;
-    position: absolute;
-}
-*/
 
 .menu {
     background-color: #D5B0AC;  
@@ -63,13 +12,7 @@ span:hover{
     height: 30px;
     line-height: 30px;
 }
-.menu span{
-    display: inline-block;
-    width: 100px;
-    height: 30px;
-    line-height: 30px;
 
-}
 span:hover{
     background-color: #9CD08F;
     color: white;
